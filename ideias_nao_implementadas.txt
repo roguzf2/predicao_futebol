@@ -1,0 +1,6 @@
+1) Temos meio campistas mais defensivos que darão menos assistências, mais parecidos como defensores, 
+ao mesmo tempo que temos meio campistas mais atacantes, mais próximos de um atacante. 
+Tal fato será explorado no dataset, e possivelmente iremos adicionar eles em diferentes 
+PosiçõesEncoded baseado em sua Posição, fazendo esse tratamento antes de aplicar o modelo. (parte experimental)
+
+2) Ao invés de ligas, numerar por time
